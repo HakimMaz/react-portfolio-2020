@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name": "Mazouz Abdelhakim",
+    "occupation": "ReactJS && JAVA/Node Js Developer",
+    "description": "Full Stack ReactJS && JAVA/Node Js Developer",
+    "image": "profil.jpg",
+    "bio": "My name is Mazouz Abdelhakim, I'm a Full Stack ReactJS/JAVA && Node Js Developer. Currently I'm working at ELIT-SONELGAZ company as web developer ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "maz.hakim93@gmail.com",
+    "phone": "+213 554 965 774",
+    "address": {
+      "street": "32 train station street ",
+      "city": "Boumerdes",
+      "state": "ALGERIA",
+      "zip": "35000"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/maz.hakim.3576",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mazouz-abdelhakim",
+        "className": "fa fa-linkedin"
+      },
+     
+      {
+        "name": "github",
+        "url": "https://github.com/HakimMaz",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Boumerdes",
+        "degree": "Masters Degree in software engineering ",
+        "graduated": "July 2017",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "ONM ",
+        "title": "Software Engineer ",
+        "years": "August 2017 - September 2017",
+        "description": "Developing and maintinning sofware"
+      },
+      {
+        "company": "ELIT-SONELGAZ",
+        "title": "Software Engineer",
+        "years": "September 2017 - present",
+        "description": "Developing web and gis applications "
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "JAVASCRIPT",
+        "level": "70%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "JAVA",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "POSTGRESQL",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Crud project using springbooy ",
+        "category": "introduction to springboot with crud operation using java, springboot , jpa and postgresql",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://github.com/HakimMaz/SpringCrud-Rest-api.git"
+      }
+      
+    
+    
+     
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Il est rare de rencontrer une personne comme Hakim, il est coopératif, stricte, et responsable, la capacité de Hakim à jongler avec plusieurs technologies est unique, il maîtrise très bien son travail, Et, bien sûr , les traits de sa personnalité sont appréciables. Hakim serait un véritable atout pour tous les postes nécessitant une formation identique à celle qu'il a acquis, bonne chance.",
+        "user":"Nouhaila El Fakir  web Developer"
+      },
+      {
+        "text": "Excellent développeur web, je t'encourage et bonne chance",
+        "user": "Imen yousfi  web Developer "
+      }
+    ]
+  }
+}
